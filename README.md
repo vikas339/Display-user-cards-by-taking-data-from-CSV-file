@@ -6,4 +6,4 @@ The CSV is parsed and all the user data is stored inside an array of JSON / loca
 
 Display all the user cards (from the CSV) and show it to the audience.
 
-4. Allow the audience (who uploads CSV) to delete and user by clicking.
+Allow the audience (who uploads CSV) to delete and user by clicking.
